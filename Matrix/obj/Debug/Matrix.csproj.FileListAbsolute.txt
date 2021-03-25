@@ -1,0 +1,10 @@
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\bin\Debug\Matrix.exe.config
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\bin\Debug\Matrix.exe
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\bin\Debug\Matrix.pdb
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\obj\Debug\Matrix.csproj.GenerateResource.cache
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\obj\Debug\Matrix.exe
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\obj\Debug\Matrix.pdb
+E:\Courses\ТП\Лабораторная работа №3\Matrix\Matrix\obj\Debug\Matrix.Form1.resources
